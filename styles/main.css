@@ -1,0 +1,30 @@
+#main {
+    background-image: url('../images/big.png');
+    background-position: center center;
+    background-size: cover;
+    min-height: 400px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 136px;
+    box-sizing: border-box;
+}
+
+.main__header {
+    font-family: 'Brandon Printed', sans-serif;
+    letter-spacing: 5px;
+    font-size: 36px;
+    margin-bottom: -7px; /*disable space from font"*/
+    margin-top: 0;
+}
+
+.delimiter {
+    width: 100px;
+    border-bottom: 1px solid #fff;
+    margin: 22px auto;
+}
+
+.main__text {
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
